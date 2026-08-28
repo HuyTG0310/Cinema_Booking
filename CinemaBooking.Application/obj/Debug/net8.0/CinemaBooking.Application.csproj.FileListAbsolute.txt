@@ -1,0 +1,15 @@
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\bin\Debug\net8.0\CinemaBooking.Application.deps.json
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\bin\Debug\net8.0\CinemaBooking.Application.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\bin\Debug\net8.0\CinemaBooking.Application.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\bin\Debug\net8.0\CinemaBooking.Domain.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\bin\Debug\net8.0\CinemaBooking.Domain.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.csproj.AssemblyReference.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.AssemblyInfoInputs.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.AssemblyInfo.cs
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.csproj.CoreCompileInputs.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBo.47192FFF.Up2Date
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\refint\CinemaBooking.Application.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\ref\CinemaBooking.Application.dll

@@ -1,0 +1,11 @@
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\bin\Debug\net8.0\CinemaBooking.Domain.deps.json
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\bin\Debug\net8.0\CinemaBooking.Domain.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\bin\Debug\net8.0\CinemaBooking.Domain.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\CinemaBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\CinemaBooking.Domain.AssemblyInfoInputs.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\CinemaBooking.Domain.AssemblyInfo.cs
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\CinemaBooking.Domain.csproj.CoreCompileInputs.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\CinemaBooking.Domain.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\refint\CinemaBooking.Domain.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\CinemaBooking.Domain.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Domain\obj\Debug\net8.0\ref\CinemaBooking.Domain.dll

@@ -1,0 +1,17 @@
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\bin\Debug\net8.0\CinemaBooking.Persistence.deps.json
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\bin\Debug\net8.0\CinemaBooking.Persistence.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\bin\Debug\net8.0\CinemaBooking.Persistence.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\bin\Debug\net8.0\CinemaBooking.Application.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\bin\Debug\net8.0\CinemaBooking.Domain.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\bin\Debug\net8.0\CinemaBooking.Application.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\bin\Debug\net8.0\CinemaBooking.Domain.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.csproj.AssemblyReference.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.AssemblyInfoInputs.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.AssemblyInfo.cs
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.csproj.CoreCompileInputs.cache
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBo.BA6DBE64.Up2Date
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\refint\CinemaBooking.Persistence.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.pdb
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\ref\CinemaBooking.Persistence.dll
