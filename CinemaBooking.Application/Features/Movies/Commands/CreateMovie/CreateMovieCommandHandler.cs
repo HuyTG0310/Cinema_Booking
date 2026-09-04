@@ -27,7 +27,7 @@ namespace CinemaBooking.Application.Features.Movies.Commands.CreateMovie
             {
                 Title = request.Title,
                 DurationMinutes = request.DurationMinutes,
-                AgeLimit = request.AgeLimit,
+                AgeRating = request.AgeLimit,
                 PosterUrl = request.PosterUrl
             };
 

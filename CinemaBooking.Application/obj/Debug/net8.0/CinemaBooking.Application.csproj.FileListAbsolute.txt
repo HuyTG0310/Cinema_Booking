@@ -13,3 +13,4 @@ D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application
 D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\refint\CinemaBooking.Application.dll
 D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.pdb
 D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\ref\CinemaBooking.Application.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Application\obj\Debug\net8.0\CinemaBooking.Application.sourcelink.json

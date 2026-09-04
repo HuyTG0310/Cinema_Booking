@@ -1,4 +1,4 @@
-﻿using CinemaBooking.Application.Features.Rooms;
+﻿using CinemaBooking.Application.Features.Rooms.Commands.CreateRoom;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

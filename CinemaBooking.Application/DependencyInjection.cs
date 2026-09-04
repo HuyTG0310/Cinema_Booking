@@ -1,4 +1,6 @@
 ﻿using CinemaBooking.Application.Behaviors;
+using CinemaBooking.Application.Interfaces;
+using CinemaBooking.Application.Services;
 using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
@@ -20,6 +22,7 @@ namespace CinemaBooking.Application
 
             services.AddValidatorsFromAssembly(assembly);
 
+            services.AddScoped<IBookingCleanupService, BookingCleanupService>();
             return services;
         }
     }

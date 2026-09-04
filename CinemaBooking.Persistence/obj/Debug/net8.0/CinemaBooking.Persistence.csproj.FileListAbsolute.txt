@@ -15,3 +15,4 @@ D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence
 D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\refint\CinemaBooking.Persistence.dll
 D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.pdb
 D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\ref\CinemaBooking.Persistence.dll
+D:\2025-2026\SU 26\OJT\personal projects\CinemaBooking\CinemaBooking.Persistence\obj\Debug\net8.0\CinemaBooking.Persistence.sourcelink.json

@@ -3,96 +3,204 @@
   "WorkspaceRootPath": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\queries\\getmoviesbystatus\\getmoviesbystatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\queries\\getmoviesbystatus\\getmoviesbystatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\rooms\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\rooms\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\queries\\getmoviebyid\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\queries\\getmoviebyid\\getmoviebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\rooms\\createroomcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\rooms\\createroomcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\dtos\\moviebystatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\dtos\\moviebystatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\dtos\\moviedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\dtos\\moviedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\rooms\\createroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\rooms\\createroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\cinemabooking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\cinemabooking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\dtos\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\queries\\getmoviesbystatus\\getmoviesbystatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\queries\\getmoviesbystatus\\getmoviesbystatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\queries\\getmoviebyid\\getmoviebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\queries\\getmoviebyid\\getmoviebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\bookings\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\bookings\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\bookings\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\bookings\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.infrastructure\\cinemabooking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|solutionrelative:cinemabooking.infrastructure\\cinemabooking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\cinemabooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\cinemabooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\cinemabooking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\cinemabooking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.infrastructure\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|solutionrelative:cinemabooking.infrastructure\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\interfaces\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\interfaces\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\hubs\\seathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\hubs\\seathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\showtimes\\queries\\getshowtimeseats\\getshowtimeseatsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\showtimes\\queries\\getshowtimeseats\\getshowtimeseatsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\showtimes\\queries\\getshowtimeseats\\getshowtimeseatsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\showtimes\\queries\\getshowtimeseats\\getshowtimeseatsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\cinemabooking.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\cinemabooking.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\cinemabooking.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\cinemabooking.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\queries\\getallmovies\\getallmoviesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\queries\\getallmovies\\getallmoviesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\services\\bookingcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\services\\bookingcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\queries\\getallmovies\\getallmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\queries\\getallmovies\\getallmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\auth\\queries\\login\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\auth\\queries\\login\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\bookings\\commands\\confirmpayment\\confirmpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\bookings\\commands\\confirmpayment\\confirmpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\auth\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\auth\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\cinemabooking.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\cinemabooking.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.infrastructure\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|solutionrelative:cinemabooking.infrastructure\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|solutionrelative:cinemabooking.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|solutionrelative:cinemabooking.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\auth\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\auth\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\dtos\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\dtos\\createbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\cinemabooking.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -103,48 +211,76 @@
       "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC10934-A1A7-4FA7-9774-5B2CC61DF1BB}|CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj|solutionrelative:cinemabooking.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\bookings\\commands\\confirmpayment\\confirmpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\bookings\\commands\\confirmpayment\\confirmpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\cinemabooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\cinemabooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.infrastructure\\cinemabooking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F9442CD1-E901-44FA-85C2-B060EB941887}|CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj|solutionrelative:cinemabooking.infrastructure\\cinemabooking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\showtimes\\commands\\createshowtime\\createshowtimecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\showtimes\\commands\\createshowtime\\createshowtimecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\showtimes\\commands\\createshowtime\\createshowtimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\showtimes\\commands\\createshowtime\\createshowtimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\showtimes\\commands\\createshowtime\\createshowtimecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\showtimes\\commands\\createshowtime\\createshowtimecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\interfaces\\ibookingcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\interfaces\\ibookingcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\rooms\\commands\\createroom\\createroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\rooms\\commands\\createroom\\createroomcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\rooms\\commands\\createroom\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\rooms\\commands\\createroom\\createroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\rooms\\commands\\createroom\\createroomcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\rooms\\commands\\createroom\\createroomcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.api\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7654684-57C6-48CF-AB37-E1C45ECBBA2F}|CinemaBooking.API\\CinemaBooking.API.csproj|solutionrelative:cinemabooking.api\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6FB440-B87B-4BEE-9D4B-C9E0B04C0836}|CinemaBooking.Application\\CinemaBooking.Application.csproj|solutionrelative:cinemabooking.application\\features\\movies\\commands\\createmovie\\createmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\enums\\seattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\enums\\seattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|d:\\2025-2026\\su 26\\ojt\\personal projects\\cinemabooking\\cinemabooking.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA559BF9-9E26-47E5-9E7D-0F35712D4EBF}|CinemaBooking.Domain\\CinemaBooking.Domain.csproj|solutionrelative:cinemabooking.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +290,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,46 +346,140 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RoomsController.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\RoomsController.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.API\\Controllers\\RoomsController.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\RoomsController.cs",
-              "RelativeToolTip": "CinemaBooking.API\\Controllers\\RoomsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T07:54:20.165Z",
+              "WhenOpened": "2026-08-27T15:33:46.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDetailDTO.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\MovieDetailDTO.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\DTOs\\MovieDetailDTO.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\MovieDetailDTO.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\DTOs\\MovieDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:15:27.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieByStatusDTO.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\MovieByStatusDTO.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\DTOs\\MovieByStatusDTO.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\MovieByStatusDTO.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\DTOs\\MovieByStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:19:46.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetMoviesByStatusQuery.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQuery.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQuery.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQuery.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:19:22.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetMoviesByStatusQueryHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQueryHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQueryHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQueryHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMoviesByStatus\\GetMoviesByStatusQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:20:28.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateRoomCommandHandler.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandHandler.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandHandler.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandHandler.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAbAAAAAAAAAA==",
+              "Title": "GetMovieByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T07:46:30.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T04:18:31.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateRoomCommandValidator.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandValidator.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandValidator.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandValidator.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SeatDTO.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\SeatDTO.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\DTOs\\SeatDTO.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\SeatDTO.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\DTOs\\SeatDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T07:43:22.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T03:16:34.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "GetMovieByIdQuery.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetMovieById\\GetMovieByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T04:17:02.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBookingCommandHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:07:32.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateBookingCommand.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:05:08.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Movie.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:17:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Room.cs",
               "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Room.cs",
@@ -257,352 +487,11 @@
               "RelativeToolTip": "CinemaBooking.Domain\\Entities\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:19:02.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateRoomCommand.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommand.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommand.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommand.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Rooms\\CreateRoomCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T07:42:11.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GlobalExceptionHandler.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
-              "RelativeToolTip": "CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T07:21:20.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:30:31.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Program.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.API\\Program.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Program.cs",
-              "RelativeToolTip": "CinemaBooking.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T13:54:14.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CinemaBooking.Application.csproj",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\CinemaBooking.Application.csproj",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\CinemaBooking.Application.csproj",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\CinemaBooking.Application.csproj",
-              "RelativeToolTip": "CinemaBooking.Application\\CinemaBooking.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-27T09:12:04.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:51:19.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateMovieCommandValidator.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:47:44.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateMovieCommandHandler.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:39:09.753Z"
+              "WhenOpened": "2026-08-27T09:19:02.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.API\\Controllers\\MoviesController.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "CinemaBooking.API\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:33:46.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateMovieCommand.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:37:52.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\DependencyInjection.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\DependencyInjection.cs",
-              "RelativeToolTip": "CinemaBooking.Persistence\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:32:27.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CinemaBooking.API.csproj",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.csproj",
-              "RelativeDocumentMoniker": "CinemaBooking.API\\CinemaBooking.API.csproj",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.csproj",
-              "RelativeToolTip": "CinemaBooking.API\\CinemaBooking.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-27T13:56:19.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CinemaBooking.Persistence.csproj",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
-              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
-              "RelativeToolTip": "CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-27T13:40:57.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetAllMoviesQueryHandler.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQueryHandler.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQueryHandler.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQueryHandler.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:28:09.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetAllMoviesQuery.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQuery.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQuery.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQuery.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Queries\\GetAllMovies\\GetAllMoviesQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:27:29.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:23:01.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:21:59.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:19:07.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:21:23.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CinemaBooking.API.http",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.http",
-              "RelativeDocumentMoniker": "CinemaBooking.API\\CinemaBooking.API.http",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.http",
-              "RelativeToolTip": "CinemaBooking.API\\CinemaBooking.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-08-27T13:57:03.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CinemaBooking.API\\appsettings.json",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\appsettings.json",
-              "RelativeToolTip": "CinemaBooking.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-27T13:55:03.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\AppDbContext.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "CinemaBooking.Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T13:41:19.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CinemaBooking.Domain.csproj",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
-              "RelativeDocumentMoniker": "CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
-              "RelativeToolTip": "CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-27T13:44:19.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CinemaBooking.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
-              "RelativeToolTip": "CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-27T13:44:18.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Booking.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Booking.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Booking.cs",
-              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:38:43.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Ticket.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Ticket.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Ticket.cs",
-              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:30:09.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ShowTime.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\ShowTime.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\ShowTime.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\ShowTime.cs",
-              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\ShowTime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:26:02.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BookingStatus.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Enums\\BookingStatus.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Enums\\BookingStatus.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Enums\\BookingStatus.cs",
-              "RelativeToolTip": "CinemaBooking.Domain\\Enums\\BookingStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:25:03.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "Seat.cs",
               "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Seat.cs",
               "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Seat.cs",
@@ -614,19 +503,679 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Movie.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Movie.cs",
-              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\ShowTime.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\ShowTime.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\ShowTime.cs",
+              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\ShowTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:17:47.237Z"
+              "WhenOpened": "2026-08-27T09:26:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Ticket.cs",
+              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:30:09.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:45:21.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Entities\\Booking.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Entities\\Booking.cs",
+              "RelativeToolTip": "CinemaBooking.Domain\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:38:43.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateMovieCommandHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:39:09.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "CinemaBooking.Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:41:19.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CinemaBooking.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
+              "RelativeToolTip": "CinemaBooking.Infrastructure\\CinemaBooking.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T13:44:18.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CinemaBooking.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:16:22.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CinemaBooking.Domain.csproj",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
+              "RelativeToolTip": "CinemaBooking.Domain\\CinemaBooking.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T13:44:19.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CinemaBooking.Application.csproj",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\CinemaBooking.Application.csproj",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\CinemaBooking.Application.csproj",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\CinemaBooking.Application.csproj",
+              "RelativeToolTip": "CinemaBooking.Application\\CinemaBooking.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T09:12:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Infrastructure\\Services\\RedisService.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\Services\\RedisService.cs",
+              "RelativeToolTip": "CinemaBooking.Infrastructure\\Services\\RedisService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T06:58:52.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IRedisService.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IRedisService.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IRedisService.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IRedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T06:57:28.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SeatHub.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Hubs\\SeatHub.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Hubs\\SeatHub.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Hubs\\SeatHub.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Hubs\\SeatHub.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T04:17:47.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShowTimesController.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\ShowTimesController.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Controllers\\ShowTimesController.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\ShowTimesController.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Controllers\\ShowTimesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:13:55.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:54:20.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetShowTimeSeatsQueryHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQueryHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQueryHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQueryHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:38:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetShowTimeSeatsQuery.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQuery.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQuery.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQuery.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\ShowTimes\\Queries\\GetShowTimeSeats\\GetShowTimeSeatsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:37:19.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CinemaBooking.API.csproj",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.csproj",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\CinemaBooking.API.csproj",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.csproj",
+              "RelativeToolTip": "CinemaBooking.API\\CinemaBooking.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T13:56:19.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:22:58.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T02:19:48.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookingCleanupService.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Services\\BookingCleanupService.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Services\\BookingCleanupService.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Services\\BookingCleanupService.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Services\\BookingCleanupService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T08:00:13.151Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\DTOs\\AuthResponseDTO.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\AuthResponseDTO.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\DTOs\\AuthResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:48:04.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:59:43.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:19:07.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ConfirmPaymentCommandHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommandHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommandHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommandHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommandHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:36:08.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Program.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Program.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:54:14.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginQueryHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Auth\\Queries\\Login\\LoginQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T02:00:54.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\DependencyInjection.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "CinemaBooking.Persistence\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:32:27.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "CinemaBooking.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:21:59.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CinemaBooking.Persistence.csproj",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
+              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
+              "RelativeToolTip": "CinemaBooking.Persistence\\CinemaBooking.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T13:40:57.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "RelativeToolTip": "CinemaBooking.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T02:07:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "CinemaBooking.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T02:08:32.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CinemaBooking.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:01:45.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CinemaBooking.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:23:01.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:49:08.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateBookingRequest.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\CreateBookingRequest.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\DTOs\\CreateBookingRequest.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DTOs\\CreateBookingRequest.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\DTOs\\CreateBookingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T02:29:22.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:51:45.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CinemaBooking.API.http",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.http",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\CinemaBooking.API.http",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\CinemaBooking.API.http",
+              "RelativeToolTip": "CinemaBooking.API\\CinemaBooking.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-27T13:57:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\appsettings.json",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\appsettings.json",
+              "RelativeToolTip": "CinemaBooking.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-27T13:55:03.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ConfirmPaymentCommand.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommand.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommand.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommand.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Bookings\\Commands\\ConfirmPayment\\ConfirmPaymentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:35:08.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:47:08.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IJwtProvider.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IJwtProvider.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:46:42.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateShowTimeCommandHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:07:51.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateShowTimeCommand.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommand.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommand.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommand.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:03:51.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateShowTimeCommandValidator.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandValidator.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandValidator.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandValidator.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\ShowTimes\\Commands\\CreateShowTime\\CreateShowTimeCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:05:05.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:51:19.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IBookingCleanupService.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IBookingCleanupService.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IBookingCleanupService.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IBookingCleanupService.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IBookingCleanupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:59:31.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:30:31.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:21:23.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateRoomCommand.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommand.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommand.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommand.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:42:11.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateRoomCommandHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:46:30.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CreateRoomCommandValidator.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandValidator.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandValidator.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandValidator.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Rooms\\Commands\\CreateRoom\\CreateRoomCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:43:22.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "CinemaBooking.API\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:21:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateMovieCommandValidator.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:47:44.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CreateMovieCommand.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "RelativeToolTip": "CinemaBooking.Application\\Features\\Movies\\Commands\\CreateMovie\\CreateMovieCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T15:37:52.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Enums\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Enums\\BookingStatus.cs",
+              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Enums\\BookingStatus.cs",
+              "RelativeToolTip": "CinemaBooking.Domain\\Enums\\BookingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T09:25:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
               "Title": "SeatType.cs",
               "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Enums\\SeatType.cs",
               "RelativeDocumentMoniker": "CinemaBooking.Domain\\Enums\\SeatType.cs",
@@ -635,18 +1184,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T09:17:09.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "CinemaBooking.Domain\\Common\\BaseEntity.cs",
-              "ToolTip": "D:\\2025-2026\\SU 26\\OJT\\personal projects\\CinemaBooking\\CinemaBooking.Domain\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "CinemaBooking.Domain\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:16:22.884Z"
             }
           ]
         }
